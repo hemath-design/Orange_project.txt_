@@ -1,3 +1,3 @@
 # hemath
 git hub
-vesion control using git
+data mities 
